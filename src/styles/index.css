@@ -1,4 +1,11 @@
-main {
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* main {
   align-content: center;
   box-sizing: border-box;
   display: grid;
@@ -41,4 +48,4 @@ pre {
 code:before,
 code:after {
   content: '\`';
-}
+} */
