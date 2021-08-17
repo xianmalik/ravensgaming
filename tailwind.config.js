@@ -10,6 +10,9 @@ module.exports = {
 			  // sans: ['Calibre', ...defaultTheme.fontFamily.sans],
 			  sans: [...defaultTheme.fontFamily.sans],
 			},
+			colors: {
+				// gray: '#0e181b'
+			}
 		},
 	},
 	variants: {

@@ -1,9 +1,18 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;700&family=Odibee+Sans&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'Montserrat';
+}
+
+.rgx-font-sans {
+	font-family: 'Inconsolata', monospace;
+	/* font-family: 'Odibee Sans', cursive; */
+}
 
 /* main {
   align-content: center;
